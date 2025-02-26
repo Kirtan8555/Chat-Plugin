@@ -1,0 +1,5 @@
+project:
+  name: "MyPlugin"      # Aapke plugin ka naam
+  version: "1.0.0"      # Plugin ki version number
+  main: "MyPlugin" # Aapki main class ka fully-qualified path; isko update karein agar aapka namespace ya class name alag hai
+  api: "5.0.0"          # PocketMine-MP API version; isko aapke target version ke hisaab se set karein
